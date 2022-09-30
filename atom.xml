@@ -6,7 +6,7 @@
   <link href="http://xinnor.site/atom.xml" rel="self"/>
   
   <link href="http://xinnor.site/"/>
-  <updated>2022-06-18T12:41:16.233Z</updated>
+  <updated>2022-09-20T13:59:37.075Z</updated>
   <id>http://xinnor.site/</id>
   
   <author>
@@ -17,11 +17,103 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>一个人的成功是如何被运气决定的</title>
+    <link href="http://xinnor.site/posts/17141.html"/>
+    <id>http://xinnor.site/posts/17141.html</id>
+    <published>2022-09-17T00:39:56.000Z</published>
+    <updated>2022-09-20T13:59:37.075Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><span id="more"></span><h4 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h4><p>       这一期我们来看一项有趣的研究，它在数学上证明了成功是运气的结果，回答了成功究竟凭借自己的能力还是运气这一讨论不断的难题，而且是给出了这么一个不寻常的答案，也因此获得了今年的搞笑诺贝尔经济学奖。</p><p>        </p><p>         一般而言，人们对于能否成功的认知取决于两个因素：天赋和运气。前者代表了个人与生具来的各种能力，后者代表了外部的种种不确定性因素；从个人的经验来讲，很难说谁更重要，我们可以看到各种各样的观点，但是社会整体显然是认为前者、也就是一个人的天赋更为重要。</p><p>        为什么这么说呢？</p><p>        因为我们在社会的各个领域都可以看到这一现象：</p><p>        比如在教育领域，成绩优秀的学生会进入更好的学校、获得更好的教育资源；在工作领域，表现更好的员工更容易获得晋升；成功的经营者往往会得到资本的青睐；在学术领域，出过成果的研究者会得到更多的研究机会与赞助，等等……</p><p>        这些都是假设成功由天赋决定，成功者更有能力，所以将资源给成功者相比给所谓的“平庸者”能创造更大的价值。</p><p>        “运气是什么？成功者的每一步都是必然的！”</p><p>        然而，科学史上许多的重要发现都得益于运气——我们熟悉的就有青霉素、硫化橡胶、石墨烯……灵感的出现也只是神经网络的随机结果；</p><p>        从更大的整体层面来看，一些研究也表明了运气的重要性，最有代表性的就要数姓名的首字母排序。基于首字母排序是日常中常用的方法，因为它不会涉及到歧视，这就使得排在前列的人更容易获得关注和机会。</p><p>        外部运气的重要性在统计学上表露无疑。</p><p>        人类的智力或者说更广泛的天赋是有差别的，整体上呈现正态分布，也就是说能力极强或者极弱的人都只占了一小部分，而社会财富的分布却遵循了帕雷托法则，呈现为幂律分布，也就是穷人占了大多数，而极少数的富翁占据了主要的财富，天赋与财富不相匹配。</p><p>        在这一财富分配过程中难道不是运气在起作用吗？</p><h4 id="模型"><a href="#模型" class="headerlink" title="模型"></a>模型</h4><p>        为了证明这一点，研究者制作了一个简单的模型来模拟人生财富积累的路径。</p><p>        这个模型将代表个人的1000个小人放置在规定的区域内，固定好不再移动，并且按照自然的正态分布为他们赋予不同的天赋值和相同的初始资本；在上面添加了500个圆点，使它们随机在区域内移动，分为绿色与红色来代表幸运和不幸的事件，两者数量相同。</p><p>        小人遭遇到幸运或者倒霉事件后，会增加或者减少他们的初始资本，增减的幅度与天赋有关。</p><p>        研究者用圆点的移动来代表人生的20岁到60岁这一年龄段，每移动一次就相当于个人的6个月，总计移动80次，结束后统计他们的最终资本。</p><p>        结果是这样的。</p><p>        数据遵循了帕雷托法则，我们可以看到，大部分的人都挤在了图表的左侧，有近一半的小人，最终资本都在10以下，也就是最初的资本数之下。</p><p>        这很类似于现实的财富分配现状。</p><p>        那么这些最终资本在几百上千的小人，他们的天赋是最好的那一小部分人吗？</p><p>        答案是否定的。</p><p>        这个图表统计了天赋和最终资本间的函数关系，很显然，拥有最多资本的人，他们的天赋都分布在平均值附近，最成功者的天赋只是略高于平均水平，而那些最有天赋的人反而远远不如。</p><p>        可见，天赋的大小对于财富的积累并没有很强的解释力，尽管天赋的大小影响了个人利用幸运事件的效率，但这一影响对运气的影响来说毫不明显。</p><p>        同时的图表也显示了随机事件和最终资本间的函数关系，显然，资本量与随机事件之间有着强烈的相关性，最成功的人也是最幸运的人，反之，最不幸的人也是最失败的人。</p><h4 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h4><p>         这看起来是一个很令人沮丧的结论，幸运的人更加成功，个人能力的影响被淹没了，而社会又在强化这一过程，给予幸运的人更多的机会和资源，形成“马太效应”。     </p><p>        只不过，从微观个人的角度来看就是另一回事了，因为天赋越强越能利用好机会，中等天赋的成功者只是因为基数更大；所以从概率上来讲，一个更有天赋的人更可能获得成功，对于个人而言，  出身、机会等运气事件是不可控的，但是提高自己的能力、积极与他人接触，以此来碰到更多的机会、更好地利用机会却是可以控制的。</p><p>                </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;h4 id=&quot;引言&quot;&gt;&lt;a h</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>为什么要用地理、动物来命名流行病？</title>
+    <link href="http://xinnor.site/posts/25980.html"/>
+    <id>http://xinnor.site/posts/25980.html</id>
+    <published>2022-08-09T02:26:30.000Z</published>
+    <updated>2022-08-11T05:13:13.316Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><span id="more"></span><h4 id="一、引言"><a href="#一、引言" class="headerlink" title="一、引言"></a>一、引言</h4><p>&emsp;&emsp;最近 ，全球权威医学杂志《新英格兰医学》发表的一篇文章指出，在中国山东、河南发现了一种新型病毒，而且已经出现了动物传人的现象，它被作者命名为“瑯琊病毒/Langya Virus（LayV）”。</p><p>&emsp;&emsp;但是，在病毒的威胁力如何还没有明朗时，它的名字就已经遭到了不少人的吐槽和反对。瑯琊作为山东地区的古地名，用作某个病毒的命名，被认为是一种污名化，尤其是在经过新冠肺炎以“武汉”命名的争论之后，人们对于这样的命名更为敏感。</p><p>&emsp;&emsp;某种流行疾病以地名作为名称是一个传统，上世纪以来的几次大流行，比如1918年的西班牙流感、1957年的亚洲流感、1968年的香港流感，2009年的甲型H1N1流感——也被称为墨西哥流感或者北美流感，都是以地名进行命名的，其它的还有中东呼吸综合症（MERS）、埃博拉病毒等等也是如此。</p><p>&emsp;&emsp;除了地名以外，动物名也容易中招，比如今年爆发的猴痘病毒，之前爆发过的禽流感、猪流感，还有马脑炎等等，很明显地是以某种动物来命名的。</p><h4 id="二、命名带来的麻烦"><a href="#二、命名带来的麻烦" class="headerlink" title="二、命名带来的麻烦"></a>二、命名带来的麻烦</h4><p>&emsp;&emsp;不过，这一命名的传统却带来了很多麻烦。</p><p>&emsp;&emsp;2009年爆发的甲型H1N1流感最初就被叫作“猪流感”，因为它是起源于猪，是普通猪流感与禽流感、人流感的混杂结果。尽管它的传播主要是靠人与人之间的传染，这个名字也使人们谈猪色变，沉重地打击了猪肉及相关的行业：一些国家开始禁止进口猪肉，埃及出现了大量屠杀猪群的现象，股票市场上的猪肉期货大幅下降，普通市民在消费时也避免购买猪肉产品。</p><p>&emsp;&emsp;这样恶劣的影响引起了猪肉行业和世界动物卫生组织的抗议，迫使世界卫生组织把名字改为“甲型H1N1流感”。与此同时，因为这一流感最初是在墨西哥发现的，“墨西哥流感”的称呼自流感爆发以来，就一直在流传，这样的名字受到了墨西哥政府的反对，而且也造成了严重的社会影响。</p><p>&emsp;&emsp;在墨西哥的邻国——美国，一直以来对于墨西哥劳工和非法移民都有着很深的误解和恐惧，这样的名字更是加重了这一偏见：一些人将墨西哥移民视为病毒传播的罪魁祸首，呼吁限制边境通行，更有甚者借此来攻击墨西哥人，以为流感在墨西哥的大范围传播是因为他们的遗传基因更加“脆弱”。</p><p>&emsp;&emsp;这一现象也在新冠的流行中得到重演，亚裔被污名化、被贴标签，与之相关的种族仇恨犯罪大幅上升。</p><p>&emsp;&emsp;世卫组织在这一方面也承受了相当的压力，为此，世卫组织在2015年，提出了新的人类传染病命名方法，希望减少疾病的命名对于旅游、贸易、动物福利带来的不利影响，避免对任何的地区或者群体造成冒犯。</p><p>&emsp;&emsp;世卫组织建议疾病的名称最好不要涉及地理区域、人名、动物或食物、某类人口或者职业、耸人听闻的词语，比如中东呼吸综合症、埃博拉、禽流感等名字都是不合适的。只不过，这样的建议并没有得到广泛的认同和执行。</p><h4 id="三、为什么这样命名"><a href="#三、为什么这样命名" class="headerlink" title="三、为什么这样命名"></a>三、为什么这样命名</h4><p>&emsp;&emsp;之所以会出现这样的负面影响，是因为不同群体对于同一名称的理解是不一样的。对于一般的公众来说，传染病的名字表明了它的传播情况，猪流感是就由猪进行传播的，墨西哥流感就表明了要远离墨西哥人；但是对于流行病学家来说，用地理名词或者动物种类来命名一种流行疾病，是为了追溯它的源头，“猪流感”是因为这一病毒具有普通猪流感的遗传片段，不表明它是由猪传播的。</p><p>&emsp;&emsp;所以，对于研究者来说，这样的命名是很合理的，而且有利于区分相似的疾病，比如埃博拉和马尔堡病很相近，如果不以地名命名的话，可能会变成丝状病毒出血热1型和丝状病毒出血热2型。</p><p>&emsp;&emsp;而且，要创造一个完善不冒犯他人的名字是很困难的，不太可能考虑到所有情况。2002年的非典，也被称作“严重急性呼吸道症/Severe Acute Respiratory Syndrome”，缩写为“SARS”，这是一个极中立的命名，但是它的缩写却与香港“特别行政区/Special Administrative Region”的缩写“SAR”只有一个字母之差，因而引起了一些不满。同样，以发现地命名的”诺沃克病毒/Norwalk”被改为”诺如病毒/Noro”，但这又引起了日本人的抗议，因为在日本这是一个常见的姓氏。</p><p>&emsp;&emsp;尽管有诸多不便，世卫组织提出的规则确实是更好的一种方向，不合适的命名会伤害到一些社会群体的情感，而且可能在公共传播中产生恶性的循环，造成难以估量的损失。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;h4 id=&quot;一、引言&quot;&gt;&lt;a</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>眼睛图案促进亲社会行为</title>
+    <link href="http://xinnor.site/posts/20998.html"/>
+    <id>http://xinnor.site/posts/20998.html</id>
+    <published>2022-08-04T06:03:07.000Z</published>
+    <updated>2022-09-25T08:19:10.276Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><span id="more"></span><h4 id="一、引言"><a href="#一、引言" class="headerlink" title="一、引言"></a>一、引言</h4><p>&emsp;&emsp;动物为了生存，进化出了许多策略来躲避捕食者，比如伪装色、警告色、威吓等，其中一个例子是蝴蝶翅膀上的眼状斑纹，这是一种有效提高生存率的手段，研究者为了解释背后的机制，提出了多个假设：</p><ul><li><p>吸引攻击转移到非重要的身体区域；</p></li><li><p>模仿捕食者敌人的眼睛来恐吓对方；</p></li><li><p>鲜明、独特的特征会使捕食者回避；</p></li><li><p>欺骗捕食者认为自己被发现。</p></li></ul><p>&emsp;&emsp;尽管我们没有看到哺乳动物使用这种策略，但实验证明了它对哺乳动物也会起作用，人类也不例外。当然了，后者不是在说作为捕食者的人类，而是指作为社会中一员的文明人，有许多实验表明，只是利用画出来的眼睛图案就可以让人变得更乐善好施。</p><h4 id="二、实验"><a href="#二、实验" class="headerlink" title="二、实验"></a>二、实验</h4><p>&emsp;&emsp;这个结论是通过一个精心设计的游戏得出来的，名字叫做“独裁者”。</p><p>&emsp;&emsp;规则很简单：参与游戏的玩家会被随机两两分配，其中一个玩家会得到10美元，并需要在20秒内决定将多大的一部分捐给另一位配对的玩家，剩下的就归自己所有；玩家只能进行一轮游戏，全程匿名，结束后悄悄地拿钱走人。</p><p>&emsp;&emsp;为了防止玩家间的互动，玩家会被随机地安排在一个计算机实验室里，相互间有空位、桌面隔板，禁止相互间的眼神或语言交流，整个过程在计算机上进行——其中一部分显示有眼睛图案，另一部分作为对照。</p><p>&emsp;&emsp;最后的结果是，看到眼睛的参与者中大约有80%都捐出了钱，与之相对的是，其它参与者中只有大约一半捐出了自己的钱，就数额来说，前者也比后者多，平均每个人给出了近4美元，比后者多出55%。显然，假的眼睛图案会让人变得更慷慨。</p><p>&emsp;&emsp;尽管这是一个通过实验室中的游戏得出来的结论，但是它完全可以应用在社会的各个场景之中。</p><p>&emsp;&emsp;后来的研究者把实验搬出了实验室，观察它在自然的慈善活动中的表现。他们在一个大型超市进了为期十一周的实验，内容是在超市的每个收银台上都放一个募捐桶，一半画上眼睛的图案，一半画上星星的图案，观察这些桶收集到的善款多少。</p><p>&emsp;&emsp;与之前的游戏一样，画有眼睛的募捐桶中的捐款比画有星星的桶多了48%，而且这一效果在超市冷清的时候更加明显，顾客少的时候前者比后者会多出59%，似乎其他人的存在会稀释眼睛的效果。</p><h4 id="三、抑制反社会行为"><a href="#三、抑制反社会行为" class="headerlink" title="三、抑制反社会行为"></a>三、抑制反社会行为</h4><p>&emsp;&emsp;实际上，这一个理论在另一方面的应用更加受人关注，也更加有效——也就是对于不道德或者说反社会行为的抑制，比如让人讨厌的乱丢垃圾、自行车盗窃等行为，它在这方面受到更大的关注是有原因的，因为一些政府组织和社会团体已经在利用这一效应，而且得到了不错的反馈。</p><p>&emsp;&emsp;英国一些地区的警察声称他们利用画有眼睛的海报减少了犯罪，环保组织在各地的高速公路服务站上张贴的海报使乱扔垃圾的现象减少了23%，这也被英国政府所认可，并在国家的减少垃圾策略中得到推荐。</p><h4 id="四、原因"><a href="#四、原因" class="headerlink" title="四、原因"></a>四、原因</h4><p>&emsp;&emsp;我们确实地可以看到简单的眼睛图案就可以促进道德行为，抑制不道德行为，但是它是怎么做到的？为什么会这样？</p><p>&emsp;&emsp;答案很简单，那就是它让周围的人误以为自己被注视，从而调整自己的行为，就像动物欺骗捕食者以为自己被发现了一样。我们的大脑中有专门负责这一部分的神经元，当看到人脸、眼睛或者类似的图案时，它们会不自主地激活，从而调整自己的行为，这可能是为了在社会中保护自己的声誉以更好地生存下来。</p><p>&emsp;&emsp;这就是为什么看到这个图案的人会阻止自己的不道德行为，因为他们潜意识里认为在这里扔垃圾或者偷东西会损害自己的声誉，是不利于自己的。</p><h5 id="五、一些反对意见"><a href="#五、一些反对意见" class="headerlink" title="五、一些反对意见"></a>五、一些反对意见</h5><p>&emsp;&emsp;这也解释了为什么这一效应在防止不道德行为方面，会比促进良好行为方面更为有效。一开始我们提到眼睛的图案使人变得更慷慨，但它不是一直有效的，而且它也不是提高了捐款数额，只是提高了捐款的可能性，因为眼睛的图案不是让人变得更好，而是让人不自主地考虑社会的影响，你过于突出不会让人更喜欢你，反而可能会有反效果。</p><p>&emsp;&emsp;这一效应还面临着其它敌人，那就是习惯化，“当一个刺激反复或长时间出现时，对该刺激的反应性下降”，周围的人过多时也会减弱对这一刺激的反应。</p><p>&emsp;&emsp;当然了，这还不能构成我们否定它的原因，因为哪怕只有微弱的效应，在较大的基数和时间跨度下，它也可以造成显著的结果，更何况它只需要你画一双眼睛。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;h4 id=&quot;一、引言&quot;&gt;&lt;a</summary>
+      
+    
+    
+    
+    
+    <category term="实验" scheme="http://xinnor.site/tags/%E5%AE%9E%E9%AA%8C/"/>
+    
+    <category term="眼睛" scheme="http://xinnor.site/tags/%E7%9C%BC%E7%9D%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络引战</title>
+    <link href="http://xinnor.site/posts/42584.html"/>
+    <id>http://xinnor.site/posts/42584.html</id>
+    <published>2022-07-29T06:47:12.000Z</published>
+    <updated>2022-07-30T12:21:00.810Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><span id="more"></span><h4 id="一、引言"><a href="#一、引言" class="headerlink" title="一、引言"></a>一、引言</h4><p>&emsp;&emsp;键盘侠、杠精、喷子、水军，如果你是社交网站的活跃用户，那你就不可能没有听说这些角色，也很难不会遇到他们。在明星偶像、在社会问题、在突发事件、甚至于在学术讨论之下，都可以看到他们的身影，他们常常通过挑衅、讽刺、辱骂的手段来引起争端，形成骂战，使讨论区变得乌烟瘴气。</p><p>&emsp;&emsp;这种行为就是引战，在英文中这些人被比作“Troll”，一种传说的巨魔，由此可见他们是多么地令人讨厌。然而，在现实中，这些人并不比其他人更令人憎恶，因为他们不会轻易地当面去嘲讽别人，但是网络改变了他们的行为。</p><h4 id="二、网络去抑制"><a href="#二、网络去抑制" class="headerlink" title="二、网络去抑制"></a>二、网络去抑制</h4><p>&emsp;&emsp;为什么同一个人在线上、线下会表现得截然不同？</p><p>&emsp;&emsp;心理学家约翰·舒勒提出的“网络去抑制效应”很好地回答了这一问题，舒勒以为有六个因素在相互作用，使得个人在网络上更放纵。</p><ol><li><p>匿名。</p><p>网络的匿名性使得个人得以将线上的自我与其它时候的自我分离开来，他们可以避免对网络上的行为负责，想说什么就说什么，从而形成一个被分割的自我，不用受到道德的限制。</p></li><li><p>不可见。</p><p>即使交流双方的身份是明确的，幕后的交流也更让人放松，面对面和目光的接触总会让人感到拘谨，对方的神态、动作、语气等不满或者冷漠的迹象也会抑制人们愿意表达的东西。</p></li><li><p>非对称。</p><p>网络的讨论是间断的，对方必须要等你完整表述以后才能给出回复，而且可能要很久才会回复，往往就使人得不到反馈来改变思路，从而更容易钻入牛角尖，此外，你也可以发泄自己的情绪然后完全不理会对方的反馈。</p></li><li><p>自我代入。</p><p>当个人在阅读文字时，会在脑海里用自己的声音读出来，从而无意识地把双方的交流视为自言自语，就像许多人经常在幻想中上演的“小剧场”一样，在这里，你可以不用受到任何外部的约束。</p></li><li><p>想象力。</p><p>有些人会把他们的网上生活看作一场游戏，与现实世界的要求和责任分开，匿名有助于这种想象，与匿名的影响不同的是，想象会创造出一个更加复杂、不一样的自我。</p></li><li><p>缺乏权威。</p><p>面对权威人物，人们不愿意说出他们的真实想法，担心受到处罚，但是在网络上，你看不到他们的衣着、装饰、环境，现实的地位和权威被弱化了，在感觉上更为平等，因而人们更容易说出自己的想法。</p></li></ol><h4 id="三、一种亚文化"><a href="#三、一种亚文化" class="headerlink" title="三、一种亚文化"></a>三、一种亚文化</h4><p>&emsp;&emsp;尽管每个人都会被网络去抑制，但是总有部分缺乏同理心的人表现得更加突出，挑衅他人、扭曲讨论而且乐此不疲，这些不顾及他人感受而以骂战为乐的行为，久而久之就形成了一种亚文化。</p><p>&emsp;&emsp;BBS时代就有引战高手发布《BBS论战指南》和《引战十二戒律》来引导想要涉足这一圈子的人，后者第十二条戒律写道：“犹豫不决时，开骂。如果你不记得前面十一条，记住这条就够了。”</p><p>&emsp;&emsp;如今的互联网中又流传着“典、孝、急”三宝，用来在骂战中居于不败地位，使用方法就是说对方的长篇大论是重复烂话、某人的支持者是他的孝子、试图与你争论的人是急了。我们可以很清楚地看到有这么一群人在研究如何进行骂战。</p><p>&emsp;&emsp;这样一种以惹怒他人为乐的亚文化有时会变得极其恶劣，比如诱导癫痫患者去看闪光图片来使他们发病、恶搞死者的形象、曝光他人的隐私等等。在外人看来难以容忍的恶行，对于这一群体而言，只是“玩玩而已”，是给受害者上了“人生中重要的一课”。</p><p>&emsp;&emsp;这一亚文化群体固然讨厌，但是当我们在谈及他们的时候，也要当心自己有可能无意地成为他们中的一员，破坏正常的社区秩序。</p><h4 id="四、每个人都有可能"><a href="#四、每个人都有可能" class="headerlink" title="四、每个人都有可能"></a>四、每个人都有可能</h4><p>&emsp;&emsp;不论有意还是无意，网络上的讨论常常会变得野蛮，早在互联网还是阿帕网的时候，这种情况就出现了，使用者为此发明了第一个表情符号笑脸：- ）来表达友善，但却被接收者以为是嘲讽而加深了误会。</p><p>&emsp;&emsp;实证研究表明，受外部环境的影响，每个人都可能变成一个“喷子”。当一个人处于负面情绪时，更有可能发表不当的言论，引战的高峰发生在一周的周一和每天的晚上，低谷则是在周六和上午，这与一个人的情绪变化是相关的。</p><p>&emsp;&emsp;负面情绪是会传染的。个人发表的言论还会受到已有讨论的影响，引战的贴子会引来更多的引战言论，而且普通的用户在参与到一个骂战后，更有可能在接下来的讨论中有不当言论。</p><p>&emsp;&emsp;所以，当我们在使用社交媒体时，除了避免与那些引战用户接触以外，还应该注意到自身的情绪影响，尽量不要使用讽刺性或者容易引起误会的表达，笑脸的表情并不能拯救一切。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;h4 id=&quot;一、引言&quot;&gt;&lt;a</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>骗局：线上的杀手网站</title>
     <link href="http://xinnor.site/posts/47487.html"/>
     <id>http://xinnor.site/posts/47487.html</id>
     <published>2022-06-18T11:04:47.000Z</published>
-    <updated>2022-06-18T12:41:16.233Z</updated>
+    <updated>2022-06-18T13:23:33.319Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>&emsp;&emsp;暗网的神秘似乎给人无究的想像，它被认为是犯罪者的聚集地，非法交易平台丝绸之路闻名于世。据此，暗网中存在有偿杀手似乎并不奇怪，但是，刺杀和毒品交易完全是两回事。</p><span id="more"></span><p>&emsp;&emsp;太史公作刺客列传，赞其人“或成或不成，然其立意较然，不欺其志”，如此义士，可惜今人难得一会。幸而网络上有些服务商宣称它们可以为客户“作媒”，那么，我们真的可以通过它们得到一位“聂政”或者“荆轲”吗？</p><h4 id="一、广告策略"><a href="#一、广告策略" class="headerlink" title="一、广告策略"></a>一、广告策略</h4><p>&emsp;&emsp;首先，来看一下它们是如何宣传的。<br/><br>&emsp;&emsp;密歇根州立大学的霍尔特教授和他的学生收集了24个杀手网站的广告——其中20个是发布于暗网的，并进行了定性和定量的分析。得益于此，我们初步了解到它们是如何吸引人的。</p><h5 id="1-创造需求"><a href="#1-创造需求" class="headerlink" title="1.创造需求"></a>1.创造需求</h5><p>&emsp;&emsp;网站并不是只提供给那些正在寻找杀手的客户，等着他们的到来，也在激发潜在的客户、<strong>创造新的需求</strong>。如引文所示，广告中会列举出个人可能需要杀手们的地方，甚至宣称这样可以解决任何问题，以此来引诱看到广告的个人。</p><blockquote><p>你是否与你的竞争对手、邻居、婆婆、政府独裁者有矛盾？税务机关和债主是否在逼迫你？是否有让你侧不安席的证人，或者无法继承的遗产？……雇佣一个杀手几乎能解决任何发生的问题。</p></blockquote><h5 id="2-宣扬真实性"><a href="#2-宣扬真实性" class="headerlink" title="2.宣扬真实性"></a>2.宣扬真实性</h5><p>&emsp;&emsp;鉴于<strong>非法交易</strong>的特性，以及没有相关第三方平台的<strong>担保</strong>或者社区的<strong>评论</strong>，因而对于杀手网站来说，如何使客户相信自己能够提供真实的服务是最大的难题，它们也在努力解决这个问题。<br/><br>&emsp;&emsp;这当然不是指它们试图营运一个第三方平台，因为一者，线上杀手雇佣市场没有毒品市场那样庞大的<strong>交易量</strong>来催生平台的产生；二者，正如下文所讲，这些网站极有可能都是<strong>骗人的</strong>。所以，它们采取的措施是尽可能地展现它们的<strong>专业性</strong>。</p><ul><li><p><strong>详细规定</strong>客户需要提供的信息：</p></li><li><p>订单的国家和城市；</p></li><li><p>目标的年龄、性别及体型；</p></li><li><p>社会地位与工作情况；</p></li><li><p>是否有安保或者陪同人员；</p></li><li><p>出行方式是步行还是乘车；</p></li><li><p>居住公寓楼还是独立宅院，住宅防御情况，</p></li><li><p>使用何种手段行凶；</p></li><li><p>你的居住城市——指导如何购买比特币。</p></li><li><p>提及它们的<strong>军事背景或者与犯罪组织的联系</strong>，如以退伍军人自称或者称黑手党是其合伙人。</p></li><li><p>声称在扩大队伍，接受<strong>成为杀手的申请</strong>，甚至提出对申请者的要求。</p></li><li><p>保证在事后<strong>提供证明</strong>，甚者展现了几个未侦破的暴力事件新闻链接作为能力证明。</p></li></ul><h5 id="3-强调安全性"><a href="#3-强调安全性" class="headerlink" title="3.强调安全性"></a>3.强调安全性</h5><p>&emsp;&emsp;这也是线上交易的优势，杀手网站大多利用<strong>比特币</strong>进行交易，进行托管或者先付半费，由此保证双方的<strong>匿名性和交易的安全性</strong>。但是有趣的是，基于公网的几家网站都使用了<strong>非安全通信</strong>，例如未加密的电子邮件地址、电话号码、社交网站联系人等，基于暗网的网站也有几家没能做好客户信息的保护工作，若说它们不是骗子或者钓鱼网站，我是不信的。</p><h4 id="二、钓鱼网站"><a href="#二、钓鱼网站" class="headerlink" title="二、钓鱼网站"></a>二、钓鱼网站</h4><p>&emsp;&emsp;如果你对上文的文字描述不满足的话，可以访问“rentahitman.com”，“hitman”是杀手的意思。这是一个宣传自己遵守“1964年杀手隐私保护法案”、以安全、可靠、易访问为卖点、提供在线表格申请的网站，是一个<strong>看起来就不可靠的</strong>但仍不断有人来此购买服务的网站。<br/><br>&emsp;&emsp;这个网站成为一个杀手网站完全是一个<strong>意外</strong>。最初，域名的主人——一名商学院学生英尼斯，购买了这个域名来做网站流量分析服务，“hit”是对客户网站点击量的认可。虽然这一事业没能发展起来，他一直保留了这个域名，以期望有人来购买它。<br/><br>&emsp;&emsp;数年之后，他收到了一位客户<strong>雇佣杀手的请求</strong>。英尼斯别无选择，只好将其信息转交给执法部门，客户因此被捕。英尼斯挽救了三个人的生命，这件事让他决定运行一个虚假的杀手网站，<strong>劝阻</strong>那些潜在的犯罪者，必要时将其信息<strong>提交给执法部门</strong>。<br>&emsp;&emsp;严格来说，它算不上一个钓鱼网站，它不期望获得任何的个人信息，甚至是被迫运行的。</p><blockquote><p>该网站不是为了引诱或欺骗潜在谋杀者的陷阱……（24小时冷静期后）询问是否还需要我们的服务……只要不断收到这些电子邮件，我就会继续。</p></blockquote><p>&emsp;&emsp;难以想像，这样一个<strong>从不宣传、玩笑似的网站</strong>居然吸引得源源不断的人来尝试，但事实上，截止去年，它一共挽救了近150条生命。我想，当一个人因为强烈的欲望而失去理智时，他就会去<strong>尝试一切的可能</strong>，正如不久前的某位大学生居然会相信牛璜酸泡腾片具有迷情的效果，结果自不必多说。</p><h4 id="三、Besa-Mafia的宣传与反宣传"><a href="#三、Besa-Mafia的宣传与反宣传" class="headerlink" title="三、Besa Mafia的宣传与反宣传"></a>三、Besa Mafia的宣传与反宣传</h4><p>&emsp;&emsp;也许Rent A Hitman只能说明在杀手市场，易于受骗的人确实存在，甚至不在少数。Besa Mafia却是一个在不遗余力宣传自己，却不断被揭露为骗局的例子。<br/></p><p>&emsp;&emsp;与它的同行不同，Besa Mafia似乎在宣传中付出了不少的努力，致力于维护自己的声誉。当网络犯罪研究者克里斯·蒙泰罗在维基中表明网络暗杀完全是毫无根据的传言时，它<strong>篡改了词条</strong>，添加了“所有的暗杀网站都是骗局，除了Besa Mafia,这是真实的”。<br/><br>&emsp;&emsp;这惹怒了蒙泰罗，他在博客上写了一篇文章来批评它，称其为骗局。Besa Mafia对此<strong>做了回应</strong>，很是客气：</p><blockquote><p>我们能付费让人提供正面评价来说明我们的真实性吗？让我知道我们是否可以向你证明我们。</p></blockquote><p>&emsp;&emsp;蒙泰罗拒绝了管理员的贿赂，并且向他提出了这个网站的诸多不合理之处，管理员一一进行了反驳，并悄悄地对自己的网站<strong>进行了改进</strong>。其后，蒙泰罗将聊天记录公布出来并嘲笑了Besa Mafia，他因此收到了对方的威胁——Besa Mfia暴徒燃烧汽车的视频。<br/></p><p>&emsp;&emsp;然而，这是另外一场骗局。蒙泰罗因为恐惧而报警，并决意亲自试探下Besa Mafia的真实性，幸运的是，他找到了<strong>网站的漏洞</strong>并获得了它的消息数据库，之后又入侵了网站并<strong>关闭了它</strong>。事实上，Besa Mafia收到了一份<strong>成为杀手的申请</strong>，便要求他制作了这一视频，随后拒绝了他的应聘和应许的报酬。<br/><br>&emsp;&emsp;数据库中的对话还显示出了它的<strong>骗术</strong>：</p><ul><li>首先，在确定需求后，要求客户将比特币转移到“托管”钱包中；</li><li>然后，推诿行动：杀手因违反交通规则或者非法持有枪支被拦下；</li><li>客户选择聘请更专业的刺客或者要求退款；</li><li>最后，网站保留所有的比特币。</li></ul><p>&emsp;&emsp;当我们考虑这些网站的真实性时，或许可以应用芝加哥的理性选择理论，罪犯会考虑到收益、成本和可能的风险，如果杀手网站能毫无风险地<strong>获取订金</strong>、甚至以此<strong>要狭客户</strong>的话，为什么要去雇用真正的杀手呢？</p><hr><p><em>扩展阅读：<br>[1] Ariel L. Roddy &amp; Thomas J. Holt. 2022. “An Assessment of Hitmen and Contracted Violence Providers Operating Online”, Deviant Behavior, 43:2, 139-151. 关于广告策略的分析。<br>[2] Erum Salam. 2021. “Meet the man who accidentally started an assassin hiring website”, The Guardian. 对网站Rent A Hitman所有者的采访。<br>[3] olpicelli, Gian. 2018. “The Unbelievable Tale of a Fake Hitman, a Kill List, a Darknet Vigilante … and a Murder.” Wired UK. 对克里斯·蒙泰罗的采访。<br>[4] Chris Monteiro. 2016. “Assassination scams, the next generation”, Pirate.London.<br>[5] Chris Monteiro. 2016. “Reputable assassination service outs pirate.london as law enforcement operation”, Pirate.London. 克里斯·蒙泰罗的两篇博客。<br>[6] Gary S Becker. 1968. “Crime and Punishment: An Economic Approach.” Journal of Political Economy 78:189–217. 贝克尔关于理性犯罪的论文。</em></p>]]></content>
     
@@ -155,23 +247,6 @@
     <category term="西汉" scheme="http://xinnor.site/tags/%E8%A5%BF%E6%B1%89/"/>
     
     <category term="徭役" scheme="http://xinnor.site/tags/%E5%BE%AD%E5%BD%B9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://xinnor.site/posts/16107.html"/>
-    <id>http://xinnor.site/posts/16107.html</id>
-    <published>2022-03-31T06:36:31.649Z</published>
-    <updated>2022-04-17T13:10:35.894Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>&emsp;&emsp;Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
-    
-    
-    
     
   </entry>
   
